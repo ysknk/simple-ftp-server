@@ -1,0 +1,24 @@
+{
+  "name": "simple-ftp-server",
+  "version": "1.0.0",
+  "description": "node.js simple-ftp-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./bin/simple-ftp-server.js"
+  },
+  "type": "module",
+  "keywords": [
+    "node.js",
+    "ftp",
+    "server"
+  ],
+  "author": "ysknk",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "ftpd": "^0.2.16",
+    "node-package-utilities": "github:ysknk/node-package-utilities",
+    "path": "^0.12.7",
+    "yargs": "^17.5.1"
+  }
+}
