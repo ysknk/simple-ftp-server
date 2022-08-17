@@ -1,7 +1,5 @@
 # simple-ftp-server
 
-# sv2js
-
 ## Description
 
 主にFTPサーバーのテスト時に使用。  
